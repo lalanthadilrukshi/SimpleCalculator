@@ -1,0 +1,15 @@
+E:\temp\turingTest\bin\Debug\turingTest.exe.config
+E:\temp\turingTest\bin\Debug\turingTest.exe
+E:\temp\turingTest\bin\Debug\turingTest.pdb
+E:\temp\turingTest\obj\Debug\turingTest.csproj.AssemblyReference.cache
+E:\temp\turingTest\obj\Debug\turingTest.csproj.CoreCompileInputs.cache
+E:\temp\turingTest\obj\Debug\turingTest.exe
+E:\temp\turingTest\obj\Debug\turingTest.pdb
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\bin\Debug\turingTest.exe.config
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\bin\Debug\turingTest.exe
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\bin\Debug\turingTest.pdb
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\obj\Debug\turingTest.csproj.AssemblyReference.cache
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\obj\Debug\turingTest.csproj.SuggestedBindingRedirects.cache
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\obj\Debug\turingTest.csproj.CoreCompileInputs.cache
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\obj\Debug\turingTest.exe
+E:\dil\temp\bitBucket\1-FirstCSharpConsoleApplication-array-list-switchcase-string and char operations-for loop\obj\Debug\turingTest.pdb
